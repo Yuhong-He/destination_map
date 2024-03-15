@@ -1,0 +1,6 @@
+flask~=3.0.2
+beautifulsoup4~=4.12.3
+requests~=2.31.0
+marshmallow~=3.21.1
+alembic~=1.13.1
+SQLAlchemy~=2.0.28
