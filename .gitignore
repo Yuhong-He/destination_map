@@ -1,2 +1,5 @@
 /config.py
 /migrations/
+.DS_Store
+.idea
+__pycache__
